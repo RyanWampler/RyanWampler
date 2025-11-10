@@ -25,10 +25,6 @@ With over 9 years in product and operations — including 3.5+ years leading ent
 - **Technical fluency** — Partner closely with engineering to build scalable systems.
 - **Operational excellence** — Streamline workflows and processes to move fast *without breaking things*.
   
-## 🔧 Featured Projects
-| Project | Description | Tech | Highlights |
-| [Paperless Delivery Platform](https://github.com/RyanAWampler/paperless-delivery-platform) | A prototype workflow automation tool inspired by my paperless SOP initiative. | Python, Flask, PostgreSQL, API | Cut manual steps by 40% in simulated workflow |
-
 ## 📊 Skills Snapshot
 **Product:** Strategy · Roadmapping · KPI definition · A/B testing · Agile delivery  
 **Technical:** APIs · Microservices · SQL · Python · GitHub Actions · CI/CD  
