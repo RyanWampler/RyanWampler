@@ -36,6 +36,6 @@ With over 9 years in product and operations — including 3.5+ years leading ent
 - API-driven ecosystems and integration strategies  
 - Turning operational processes into scalable SaaS platforms  
 
-📫 **Let’s Connect**  
+## 📫 **Let’s Connect**  
 - [LinkedIn](https://www.linkedin.com/in/ryanawampler)  
 
